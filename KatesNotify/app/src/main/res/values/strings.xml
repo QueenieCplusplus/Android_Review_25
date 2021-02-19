@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KatesNotify</string>
+    <string name="channel_name">kates channel</string>
+    <string name="channel_description">kates @PattyAppier.com</string>
+    <string name="snooze">silent</string>
+</resources>
